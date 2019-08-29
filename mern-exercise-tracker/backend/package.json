@@ -1,0 +1,22 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "This is a tutorial app",
+  "main": "app.js",
+  "scripts": {
+    "test": "T"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvirgeek/mern-exercise-tracker.git"
+  },
+  "keywords": [
+    "Exercise"
+  ],
+  "author": "tanvirgeek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanvirgeek/mern-exercise-tracker/issues"
+  },
+  "homepage": "https://github.com/tanvirgeek/mern-exercise-tracker#readme"
+}
